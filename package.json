@@ -1,0 +1,17 @@
+{
+  "name": "usage-csv-generator",
+  "version": "1.0.0",
+  "description": "Script that is used to generate old format csv from account portal",
+  "main": "generateCsv.js",
+  "dependencies": {
+    "lodash.uniq": "^4.5.0",
+    "moment": "^2.24.0",
+    "objects-to-csv": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emiliano Pelliccioni",
+  "license": "ISC"
+}
