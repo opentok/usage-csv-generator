@@ -16,7 +16,6 @@ The URL contains three fields:
 Copy and paste this URL into your browser to get your raw usage data. 
 ​
 ### Getting your account Id
-​
 1. After logging into account portal, select the desired account from the left navigation menu.
 ​
 2. Navigate to https://tokbox.com/account/#/settings or select account settings on the left navigation menu.
@@ -28,15 +27,12 @@ Simply use a website like https://www.epochconverter.com/ to convert your date i
 ​
 ​
 ## Converting into CSV Format
-​
 ### Dependencies
-​
 1. Make sure you have NodeJs installed. Version > 10
 ​
 2. In the root of this project run `npm install` to install dependencies.
 ​
 ### Usage 
-​
 1. Log in to account portal, open a new tab, and enter your [Usage URL](#usage-url)
 ​
 2. Select all the output and paste it into a file named `input.json` in the root of this project
